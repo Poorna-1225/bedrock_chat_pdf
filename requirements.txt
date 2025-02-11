@@ -1,0 +1,7 @@
+boto3
+langchain
+streamlit
+bedrock
+pypdf
+faiss-cpu
+flask-sqlalchemy
